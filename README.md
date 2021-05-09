@@ -1,8 +1,8 @@
-#Exploratory-Data-Analysis-Terrorism
+# Exploratory-Data-Analysis-Terrorism
 
-###Here in this project I have analysed the huge dataset of Terrorism where all the details are being provided
+### Here in this project I have analysed the huge dataset of Terrorism where all the details are being provided
 
-##Exploratory Data Analysis - Terrorism
+## Exploratory Data Analysis - Terrorism
 
 (Level - Intermediate)
 
